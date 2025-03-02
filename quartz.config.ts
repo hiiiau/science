@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "science ♡",
+    pageTitle: "♡ wiki",
     pageTitleSuffix: " ♡",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "science.hiii.au",
+    baseUrl: "wiki.hiii.au",
     ignorePatterns: [".obsidian", "assets/*.md", "temp", "plugins"],
     defaultDateType: "created",
     generateSocialImages: false,
